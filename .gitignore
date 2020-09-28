@@ -1,2 +1,5 @@
 **/.env.d
 **/node_modules
+app_weather/node_modules**/.env.d
+**/.env
+

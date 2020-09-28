@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 4,
+  "prettier.tabWidth": 4,
+  "prettier.singleQuote": true,
+  "files.exclude": {
+    "node_modules": true,
+    "package-lock.json": true
+  }
+}
